@@ -1,0 +1,6 @@
+﻿  ConFirstPerson.cpp
+C:\Users\Jackson\source\repos\ConFirstPerson\ConFirstPerson\ConFirstPerson.cpp(24,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jackson\source\repos\ConFirstPerson\ConFirstPerson\ConFirstPerson.cpp(136,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jackson\source\repos\ConFirstPerson\ConFirstPerson\ConFirstPerson.cpp(141,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jackson\source\repos\ConFirstPerson\ConFirstPerson\ConFirstPerson.cpp(148,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConFirstPerson.vcxproj -> C:\Users\Jackson\source\repos\ConFirstPerson\Debug\ConFirstPerson.exe
